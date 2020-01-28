@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='soverain.conf'
-CONFIGFOLDER='/root/.soverain'
+CONFIGFOLDER='/root/.soverain1'
 COIN_DAEMON='soveraind'
 COIN_CLI='soverain-cli'
 COIN_PATH='/usr/local/bin/'
